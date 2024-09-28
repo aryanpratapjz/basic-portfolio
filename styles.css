@@ -1,0 +1,70 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f4f8;
+    scroll-behavior: smooth; 
+    background-image: "url(pastel-blue-vignette-concrete-textured-background.jpg)";
+}
+
+header {
+    background-color: #542672;
+} 
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+}
+
+h2 {
+    margin-top: 20px;
+    background-color: #674180;
+    color: white;
+}
+
+.profile-img {
+    margin: 20px auto;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+.profile-img img {
+    width: 100%;
+    height: auto;
+}
+
+.navbar-nav .nav-link {
+    color: #343a40 !important;
+}
+
+.navbar {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+section {
+    background: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    font-size: 0.9em;
+    color: #6c757d;
+}
+
+.btn {
+    background-color: #007bff;
+    color: white;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+
